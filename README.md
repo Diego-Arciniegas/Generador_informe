@@ -136,3 +136,4 @@ schtasks /query /tn "AnalisisValenciaEmocional_Mensual" /v /fo list
 - Para eliminarla: `schtasks /delete /tn "AnalisisValenciaEmocional_Mensual" /f`.
 - Para cambiar la hora o el día, edítala desde el Programador de tareas de Windows o con
   `schtasks /change`.
+# Generador_informe
